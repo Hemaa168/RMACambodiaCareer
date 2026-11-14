@@ -1,0 +1,229 @@
+{
+  "faqs": [
+    {
+      "category": "General Information",
+      "questions": [
+        "What is RMA Cambodia?",
+        "Tell me about RMA Cambodia.",
+        "What does RMA Cambodia do?"
+      ],
+      "answer": "RMA Cambodia is part of the RMA Group, providing products, services and solutions across various business sectors in Cambodia. Please visit the official company website for more information."
+    },
+    {
+      "category": "General Information",
+      "questions": [
+        "Where can I find RMA Cambodia job vacancies?",
+        "Where can I see current job opportunities?",
+        "How can I find job openings at RMA Cambodia?"
+      ],
+      "answer": "You can find our current job opportunities on our official career website:\nhttps://www.careers-page.com/rma-group-company-limited"
+    },
+    {
+      "category": "General Information",
+      "questions": [
+        "What types of positions does RMA Cambodia recruit?",
+        "Which departments recruit at RMA Cambodia?",
+        "What jobs does RMA Cambodia offer?"
+      ],
+      "answer": "Recruitment opportunities may include positions in Administration, Human Resources, Finance, Sales, Marketing, IT, Engineering, Customer Service and other business departments."
+    },
+    {
+      "category": "General Information",
+      "questions": [
+        "Does RMA Cambodia offer internship opportunities?",
+        "Are internships available at RMA Cambodia?",
+        "Can I do an internship at RMA Cambodia?"
+      ],
+      "answer": "Internship opportunities may be available depending on business requirements and current recruitment announcements."
+    },
+    {
+      "category": "General Information",
+      "questions": [
+        "Can fresh graduates apply for jobs at RMA Cambodia?",
+        "Does RMA Cambodia hire fresh graduates?",
+        "Are fresh graduates welcome to apply?"
+      ],
+      "answer": "Yes, fresh graduates are welcome to apply for positions where the job requirements match their qualifications and skills."
+    },
+    {
+      "category": "Job Application",
+      "questions": [
+        "How can I apply for a job at RMA Cambodia?",
+        "How do I apply for a job?",
+        "Where can I submit a job application?"
+      ],
+      "answer": "Please visit our official career website, select your preferred job position and follow the application instructions.\nhttps://www.careers-page.com/rma-group-company-limited"
+    },
+    {
+      "category": "Job Application",
+      "questions": [
+        "What documents should I prepare when applying?",
+        "What documents are required for a job application?",
+        "What should I include with my application?"
+      ],
+      "answer": "Generally, candidates should prepare:\n• Updated CV or Resume\n• Cover Letter (if required)\n• Educational Certificates\n• Other supporting documents requested in the job announcement."
+    },
+    {
+      "category": "Job Application",
+      "questions": [
+        "Can I apply for more than one position?",
+        "Can I apply for multiple jobs?",
+        "May I submit applications for different positions?"
+      ],
+      "answer": "Yes, you may apply for multiple positions if your qualifications and experience match the requirements of each position."
+    },
+    {
+      "category": "Job Application",
+      "questions": [
+        "Can I submit my CV through Telegram?",
+        "Can I send my resume to this bot?",
+        "Can I apply through Telegram?"
+      ],
+      "answer": "Please submit your CV through the official application channel specified in the job announcement."
+    },
+    {
+      "category": "Job Application",
+      "questions": [
+        "Can I apply without work experience?",
+        "Can I get a job without experience?",
+        "Are there entry-level jobs for candidates with no experience?"
+      ],
+      "answer": "Yes, you may apply for entry-level or internship positions that do not require previous work experience. Please check the specific job requirements."
+    },
+    {
+      "category": "Job Requirements",
+      "questions": [
+        "What qualifications are required to work at RMA Cambodia?",
+        "What education do I need?",
+        "What are the job qualifications?"
+      ],
+      "answer": "Qualifications depend on the position. Please review the educational background and experience requirements in the relevant job announcement."
+    },
+    {
+      "category": "Job Requirements",
+      "questions": [
+        "Does RMA Cambodia require English language skills?",
+        "Do I need to speak English?",
+        "Is English required for every position?"
+      ],
+      "answer": "English language requirements depend on the job position and its responsibilities."
+    },
+    {
+      "category": "Job Requirements",
+      "questions": [
+        "What computer skills are required?",
+        "Do I need Microsoft Office skills?",
+        "Which software skills are needed?"
+      ],
+      "answer": "Computer skills vary by position. Some roles may require Microsoft Office, Excel, specialized software or other technical skills."
+    },
+    {
+      "category": "Job Requirements",
+      "questions": [
+        "Can students apply for part-time jobs or internships?",
+        "Are students eligible for part-time work?",
+        "Can university students apply?"
+      ],
+      "answer": "Opportunities for students depend on current vacancies and business requirements. Please check the official career website."
+    },
+    {
+      "category": "Job Requirements",
+      "questions": [
+        "Is previous work experience mandatory?",
+        "Do all jobs require work experience?",
+        "Can I apply without professional experience?"
+      ],
+      "answer": "Not all positions require previous work experience. Some entry-level positions and internships may accept candidates without professional experience."
+    },
+    {
+      "category": "Job Interview",
+      "questions": [
+        "What is the recruitment process at RMA Cambodia?",
+        "What are the steps in recruitment?",
+        "How does the hiring process work?"
+      ],
+      "answer": "The recruitment process may include:\n1. Application submission\n2. CV screening\n3. Interview\n4. Assessment (if required)\n5. Final selection\n6. Job offer and onboarding"
+    },
+    {
+      "category": "Job Interview",
+      "questions": [
+        "How long does the recruitment process take?",
+        "When will I hear back after applying?",
+        "How long does hiring take?"
+      ],
+      "answer": "The recruitment timeline depends on the position and hiring requirements. The recruitment team will contact shortlisted candidates regarding the next steps."
+    },
+    {
+      "category": "Job Interview",
+      "questions": [
+        "How will I know if I am shortlisted?",
+        "Will HR contact me if I pass the screening?",
+        "How are shortlisted candidates notified?"
+      ],
+      "answer": "Shortlisted candidates will be contacted by the recruitment team using the contact information provided in their application."
+    },
+    {
+      "category": "Job Interview",
+      "questions": [
+        "What should I prepare for an interview?",
+        "How can I prepare for my job interview?",
+        "What should I bring to an interview?"
+      ],
+      "answer": "Candidates are encouraged to:\n• Research the company.\n• Review the job description.\n• Prepare examples of their skills and experience.\n• Dress professionally.\n• Arrive on time."
+    },
+    {
+      "category": "Job Interview",
+      "questions": [
+        "Can I reschedule my interview?",
+        "What if I cannot attend my interview?",
+        "Can I change my interview appointment?"
+      ],
+      "answer": "If you cannot attend your scheduled interview, please contact the recruitment team as soon as possible to discuss alternative arrangements."
+    },
+    {
+      "category": "Salary & Employee Benefits",
+      "questions": [
+        "What is the salary for each position?",
+        "How much does RMA Cambodia pay?",
+        "Where can I find salary information?"
+      ],
+      "answer": "Salary information depends on the job position, qualifications and experience. Please refer to the job announcement or discuss this with the recruitment team."
+    },
+    {
+      "category": "Salary & Employee Benefits",
+      "questions": [
+        "Does RMA Cambodia provide employee benefits?",
+        "What benefits do employees receive?",
+        "Are there employee benefits?"
+      ],
+      "answer": "Employee benefits depend on the position and applicable company policies. Please ask the recruitment team for details during the recruitment process."
+    },
+    {
+      "category": "Salary & Employee Benefits",
+      "questions": [
+        "Does RMA Cambodia provide training for new employees?",
+        "Is training provided to new staff?",
+        "What happens during onboarding?"
+      ],
+      "answer": "Training and onboarding arrangements depend on the position and departmental requirements."
+    },
+    {
+      "category": "Contact & Support",
+      "questions": [
+        "How can I contact the HR or Recruitment team?",
+        "How do I contact HR?",
+        "Who can answer my recruitment questions?"
+      ],
+      "answer": "Please use the official contact information provided in the relevant job announcement or telegram : 855 70 790 890 or on the company career website:\nhttps://www.careers-page.com/rma-group-company-limited"
+    },
+    {
+      "category": "Contact & Support",
+      "questions": [
+        "What should I do if I cannot find the answer to my question?",
+        "Who can help if my question is not listed?",
+        "How can I get more recruitment information?"
+      ],
+      "answer": "Thank you for contacting RMA Cambodia Career Assistant. I do not currently have confirmed information about this question. Please contact the recruitment team through the official recruitment channel for further assistance."
+    }
+  ]
+}
